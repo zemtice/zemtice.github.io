@@ -1,0 +1,16 @@
+.intro h1{
+    font-size: 70px;
+    font-weight: bold;
+    font-family:'Lucida Sans';
+    color:rgba(230, 75, 204, 0.952);
+}
+.intro img{
+    vertical-align: middle;
+    height: 300px;
+}
+
+.intro p{
+    font-size: 20px;
+    color:rgba(32, 26, 54, 0.952);
+    opacity: 0.5;
+}
