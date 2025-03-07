@@ -10,9 +10,9 @@ permalink: /about/
         <img src="/assets/images/palico.png" alt="profile image" class="profile-image">
     </div>
     <div class="profile-info">
-        <p> <br><br></p>
         <h2 class="profile-name">Chih Yang</h2>
-        <p class="profile-email"><a href="mailto:your.email@example.com">zemtice@gmail.com</a></p>
+        <!-- <p class="profile-email"><a href="mailto:your.email@example.com">zemtice@gmail.com</a></p>
+        <p class="profile-email">Linkedin: <a href="https://www.linkedin.com/in/chih-yang-54a768181/">Chih Yang</a></p> -->
     </div>
 </div>
 
@@ -23,6 +23,14 @@ I am a PhD student of [**Graduate Institute of Applied Science and Technology**]
 * **PhD** (in progress), Graduate Institute of Applied Science and Technology, NTUST, Taiwan.
 * **Master** (2021), Graduate Institute of Color and Illumination Technology, NTUST, Taiwan.
 * **Bachelor** (2018), Electrical Engineering, NTUST, Taiwan.
+<br>
+
+### Projects and Experiences
+* 2024 - [Oil Painting Digitalization](/project/2025/03/06/oil-painting-project.html)
+* 2022 - [SLA 3D Printing Support Generating](/project/2022/12/05/sla-support.html)
+* 2021 - [AI Texture Generative System](/project/2021/12/05/texture-generative.html)
+* 2021 - [Camera based Color Measurement System](/project/2021/08/06/color-measurement-system.html)
+<br>
 
 ### Researches and Publications
 * 2023 - [Chih Yang, Ying-Hsuan Lee, and Tzung-Han Li. "Digitalization of Oil Paintings: Leveraging PBR Textures to Reproduce Realistic Appearance." 30th IDW.](https://confit.atlas.jp/guide/organizer/idw/idw2023/subject/MVS1-03/search?eventCode=idw2023&subjectCode=MVS1-03&preAction=date) (conference paper)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Oil Painting Digitalization (research project)"
+title:  "Oil Painting Digitalization"
 date:   2025-03-06 14:16:56 +0800
 categories: project
 ---
