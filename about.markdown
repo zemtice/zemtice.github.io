@@ -23,7 +23,6 @@ I am a PhD student of [**Graduate Institute of Applied Science and Technology**]
 * **PhD** (in progress), Graduate Institute of Applied Science and Technology, NTUST, Taiwan.
 * **Master** (2021), Graduate Institute of Color and Illumination Technology, NTUST, Taiwan.
 * **Bachelor** (2018), Electrical Engineering, NTUST, Taiwan.
-  `<br>`
 
 ### Projects and Experiences
 
@@ -31,7 +30,6 @@ I am a PhD student of [**Graduate Institute of Applied Science and Technology**]
 * 2022 - [SLA 3D Printing Support Generating](/project/2022/12/05/sla-support.html)
 * 2021 - [AI Texture Generative System](/project/2021/12/05/texture-generative.html)
 * 2021 - [Camera based Color Measurement System](/project/2021/08/06/color-measurement-system.html)
-  `<br>`
 
 ### Researches and Publications
 * 2025 - [Chih Yang and Tzung-Han Lin. &#34;Digitisation of Impasto and Gloss in Oil Paintings via Spatially Varying Bidirectional Reflectance Distribution Function Acquisition.&#34;Computer Graphics Forum](https://onlinelibrary.wiley.com/doi/10.1111/cgf.70295) (journal paper - early view)
