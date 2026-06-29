@@ -7,7 +7,7 @@ permalink: /about/
 
 <div class="profile-container">
     <div class="profile-image-container">
-        <img src="/assets/images/palico.png" alt="profile image" class="profile-image">
+        <img src="/assets/images/profile_ps2.png" alt="profile image" class="profile-image">
     </div>
     <div class="profile-info">
         <h2 class="profile-name">Chih Yang</h2>

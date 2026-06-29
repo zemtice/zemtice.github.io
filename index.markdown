@@ -8,7 +8,7 @@ layout: home
 
 <div class="profile-container">
     <div class="profile-image-container">
-        <img src="/assets/images/palico.png" alt="個人大頭貼" class="profile-image">
+        <img src="/assets/images/profile_ps2.png" alt="個人大頭貼" class="profile-image">
     </div>
     <div class="profile-info">
         <p>Hi! I'm Chih Yang. This personal website is used to share some of my research projects. Feel free to look around! If you would like to know more about me, please refer to the <a href="/about/">About</a> page.</p>
