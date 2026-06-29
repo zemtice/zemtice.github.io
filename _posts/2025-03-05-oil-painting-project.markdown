@@ -3,8 +3,9 @@ layout: post
 title:  "Oil Painting Digitalization"
 date:   2025-03-06 14:16:56 +0800
 categories: project
+thumbnail: /assets/images/posts/opp_hardware.png
 ---
-**Journal Article** https://onlinelibrary.wiley.com/doi/10.1111/cgf.70295
+**Journal Article** <https://onlinelibrary.wiley.com/doi/10.1111/cgf.70295>
 
 This study proposes a practical method for obtaining spatially varying bidirectional reflectance distribution function (SVBRDF) textures such as diffuse map, roughness map, normal map and specular map for oil paintings with rich impasto and varying gloss. We combined the photometric stereo algorithm with a deep learning model, which was trained based on real oil painting samples.
 This research project encompasses color correction, photometry, image stitching techniques, AI, and computer graphics knowledge; as well as hardware expertise in camera control and calibration, circuit design, and embedded systems.
@@ -19,6 +20,3 @@ After capturing the photos using the imaging module, a computational process is 
 ## Demo video of digitalized oil painting
 The demo video was rendered by [Blender](https://www.blender.org/), to demonstrate the appearance of oil painting under different lighting angles and from different views.
 <iframe width="740" height="400" src="https://www.youtube.com/embed/sNtdmCn6wcA?si=Bt3rx5LArObXlrhy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Paper
-This research project is currently in the review stage of journal submission. After acceptance, the link of paper will be updated!

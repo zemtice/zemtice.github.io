@@ -3,6 +3,7 @@ layout: post
 title:  "SLA 3D Printing Support Generating"
 date:   2022-12-05 14:16:56 +0800
 categories: project
+thumbnail: /assets/images/posts/sla_result.png
 ---
 Developed a C++ library to generate the **support structure** for **SLA** 3D printing. This is a industry collaboration project with **Young Optics inc**.
 
