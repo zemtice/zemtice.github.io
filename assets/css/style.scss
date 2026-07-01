@@ -66,6 +66,11 @@
     line-height: 1.6;
 }
 
+/* Post 內文左右對齊 */
+.post-content p {
+    text-align: justify;
+}
+
 /* Post 列表預覽圖樣式 */
 .post-list-item {
     display: flex;

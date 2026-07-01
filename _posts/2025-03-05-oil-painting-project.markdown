@@ -5,10 +5,10 @@ date:   2025-03-06 14:16:56 +0800
 categories: project
 thumbnail: /assets/images/posts/opp_hardware.png
 ---
-**Journal Article** <https://onlinelibrary.wiley.com/doi/10.1111/cgf.70295>
-
 This study proposes a practical method for obtaining spatially varying bidirectional reflectance distribution function (SVBRDF) textures such as diffuse map, roughness map, normal map and specular map for oil paintings with rich impasto and varying gloss. We combined the photometric stereo algorithm with a deep learning model, which was trained based on real oil painting samples.
 This research project encompasses color correction, photometry, image stitching techniques, AI, and computer graphics knowledge; as well as hardware expertise in camera control and calibration, circuit design, and embedded systems.
+
+**This research has been published as a journal article in <font color="red">Computer Graphics Forums</font>:** <https://onlinelibrary.wiley.com/doi/10.1111/cgf.70295>
 
 ## Device overview
 <img src="/assets/images/posts/opp_hardware.png" alt="profile image" class="profile-image">
