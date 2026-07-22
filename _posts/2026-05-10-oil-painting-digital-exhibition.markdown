@@ -11,7 +11,9 @@ We present a novel approach for interactive virtual exhibition of impasto artwor
 
 We demonstrate that SH-based image synthesis provides a cost-effective, scalable solution for photorealistic digital artwork presentation, bridging the gap between traditional art appreciation and interactive digital experiences.
 
-**This research has been published as a journal article in <font color="red">Applied Optics</font>:** <https://opg.optica.org/ao/fulltext.cfm?uri=ao-65-14-4749>
+**This research has been published as a journal article in <font color="red">Applied Optics</font>:** 
+
+<https://opg.optica.org/ao/fulltext.cfm?uri=ao-65-14-4749>
 
 
 ## Pipeline 

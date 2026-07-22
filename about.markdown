@@ -25,6 +25,7 @@ I am a PhD in [**Graduate Institute of Applied Science and Technology**](https:/
 
 ### Projects and Experiences
 * 2026 - [Oil Painting Digital Exhibition](/project/2026/05/10/oil-painting-digital-exhibition.html)
+* 2025 - [Generative AI for UV Color Printing Reproduction of Oil Paintings](/project/2025/12/15/uv-printing-generative-ai.html)
 * 2024 - [Oil Painting Digitalization](/project/2025/03/06/oil-painting-project.html)
 * 2022 - [SLA 3D Printing Support Generating](/project/2022/12/05/sla-support.html)
 * 2021 - [AI Texture Generative System](/project/2021/12/05/texture-generative.html)
