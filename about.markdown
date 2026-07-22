@@ -15,9 +15,7 @@ permalink: /about/
         <p class="profile-email">Linkedin: <a href="https://www.linkedin.com/in/chih-yang-54a768181/">Chih Yang</a></p> -->
     </div>
 </div>
-I am a PhD student of [**Graduate Institute of Applied Science and Technology**](https://www.gsas.ntust.edu.tw/index.php?Lang=en) at [**NTUST**](https://www.ntust.edu.tw/index.php?Lang=en), with research focusing on color science, image processing, computer graphics (CG), computer vision (CV), and artificial intelligence(AI).
-
-**I am currently in the final stages of my Ph.D. I have already passed my oral defense, and the final graduation procedures will take about a month. (July 2026)**
+I am a PhD in [**Graduate Institute of Applied Science and Technology**](https://www.gsas.ntust.edu.tw/index.php?Lang=en) at [**NTUST**](https://www.ntust.edu.tw/index.php?Lang=en), with research focusing on color science, image processing, computer graphics (CG), computer vision (CV), and artificial intelligence(AI).
 
 ### Education
 
